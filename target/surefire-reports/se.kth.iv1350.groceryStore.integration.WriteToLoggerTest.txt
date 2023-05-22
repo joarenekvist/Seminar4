@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: se.kth.iv1350.groceryStore.integration.WriteToLoggerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.017 s <<< FAILURE! - in se.kth.iv1350.groceryStore.integration.WriteToLoggerTest
+testWriteTotalRevenueToFile  Time elapsed: 0.013 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Current income: 61.6 kr> but was: <Current incoe: 61.6 kr>
+	at se.kth.iv1350.groceryStore.integration.WriteToLoggerTest.testWriteTotalRevenueToFile(WriteToLoggerTest.java:46)
+
